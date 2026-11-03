@@ -4,6 +4,6 @@ class Kucing {
 }
 
 void main() {
-  final k = Kucing('Cuking');
+  final k = Kucing('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCuking');
   print(k.nama);
 }
